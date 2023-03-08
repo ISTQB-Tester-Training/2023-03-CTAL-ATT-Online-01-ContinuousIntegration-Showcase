@@ -6,7 +6,7 @@
 
     <groupId>com.testertraining</groupId>
     <artifactId>2023-03-CTAL-ATT-Online-01-ContinuousIntegration-Showcase</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <properties>
